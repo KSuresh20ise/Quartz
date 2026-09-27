@@ -13,7 +13,7 @@
   "pytorch_enabled": true,
   "jax_enabled": true,
   "status_json_created": "2026-09-27T00:01:54Z",
-  "status_json_last_updated": "2026-09-27T08:10:25Z",
+  "status_json_last_updated": "2026-09-27T08:12:25Z",
   "summary": {
     "overall_status": "failure",
     "linux": {
@@ -61,8 +61,8 @@
         },
         "test": {
           "success": 30,
-          "failure": 33,
-          "in_progress": 1,
+          "failure": 34,
+          "in_progress": 0,
           "cancelled": 0,
           "skipped": 0
         },
@@ -624,7 +624,7 @@
             "status": "failure",
             "run_id": 36288443534,
             "run_attempt": 1,
-            "started_at": "2026-09-27T04:21:39Z",
+            "started_at": "2026-09-27T02:24:58Z",
             "completed_at": "2026-09-27T08:09:50Z",
             "variants": [
               {
@@ -660,8 +660,8 @@
                 "status": "failure",
                 "run_id": 36288443534,
                 "run_attempt": 1,
-                "started_at": "2026-09-27T04:25:38Z",
-                "completed_at": "2026-09-27T05:00:51Z"
+                "started_at": "2026-09-27T02:24:58Z",
+                "completed_at": "2026-09-27T08:09:50Z"
               }
             ]
           },
@@ -669,7 +669,7 @@
             "status": "failure",
             "run_id": 36288443534,
             "run_attempt": 1,
-            "started_at": "2026-09-27T04:21:29Z",
+            "started_at": "2026-09-27T02:24:58Z",
             "completed_at": "2026-09-27T08:09:50Z",
             "variants": [
               {
@@ -705,8 +705,8 @@
                 "status": "failure",
                 "run_id": 36288443534,
                 "run_attempt": 1,
-                "started_at": "2026-09-27T04:43:15Z",
-                "completed_at": "2026-09-27T05:05:34Z"
+                "started_at": "2026-09-27T02:24:58Z",
+                "completed_at": "2026-09-27T08:09:50Z"
               }
             ]
           },
@@ -714,7 +714,7 @@
             "status": "failure",
             "run_id": 36288443534,
             "run_attempt": 1,
-            "started_at": "2026-09-27T04:21:30Z",
+            "started_at": "2026-09-27T02:24:58Z",
             "completed_at": "2026-09-27T08:09:50Z",
             "variants": [
               {
@@ -750,8 +750,8 @@
                 "status": "failure",
                 "run_id": 36288443534,
                 "run_attempt": 1,
-                "started_at": "2026-09-27T04:25:30Z",
-                "completed_at": "2026-09-27T04:46:20Z"
+                "started_at": "2026-09-27T02:24:58Z",
+                "completed_at": "2026-09-27T08:09:50Z"
               }
             ]
           },
@@ -759,7 +759,7 @@
             "status": "failure",
             "run_id": 36288443534,
             "run_attempt": 1,
-            "started_at": "2026-09-27T04:21:29Z",
+            "started_at": "2026-09-27T02:24:58Z",
             "completed_at": "2026-09-27T08:09:50Z",
             "variants": [
               {
@@ -795,8 +795,8 @@
                 "status": "failure",
                 "run_id": 36288443534,
                 "run_attempt": 1,
-                "started_at": "2026-09-27T04:25:30Z",
-                "completed_at": "2026-09-27T05:27:05Z"
+                "started_at": "2026-09-27T02:24:58Z",
+                "completed_at": "2026-09-27T08:09:50Z"
               }
             ]
           },
@@ -805,7 +805,7 @@
             "run_id": 36288443534,
             "run_attempt": 1,
             "started_at": "2026-09-27T02:24:58Z",
-            "completed_at": "2026-09-27T07:59:44Z",
+            "completed_at": "2026-09-27T08:09:50Z",
             "variants": [
               {
                 "py": "3.11",
@@ -841,7 +841,7 @@
                 "run_id": 36288443534,
                 "run_attempt": 1,
                 "started_at": "2026-09-27T02:24:58Z",
-                "completed_at": "2026-09-27T04:21:23Z"
+                "completed_at": "2026-09-27T08:09:50Z"
               }
             ]
           },
@@ -849,7 +849,7 @@
             "status": "failure",
             "run_id": 36288443534,
             "run_attempt": 1,
-            "started_at": "2026-09-27T04:21:38Z",
+            "started_at": "2026-09-27T02:24:58Z",
             "completed_at": "2026-09-27T08:09:50Z",
             "variants": [
               {
@@ -885,8 +885,8 @@
                 "status": "failure",
                 "run_id": 36288443534,
                 "run_attempt": 1,
-                "started_at": "2026-09-27T04:25:40Z",
-                "completed_at": "2026-09-27T05:02:38Z"
+                "started_at": "2026-09-27T02:24:58Z",
+                "completed_at": "2026-09-27T08:09:50Z"
               }
             ]
           },
@@ -894,7 +894,7 @@
             "status": "failure",
             "run_id": 36288443534,
             "run_attempt": 1,
-            "started_at": "2026-09-27T04:22:45Z",
+            "started_at": "2026-09-27T02:24:58Z",
             "completed_at": "2026-09-27T08:09:50Z",
             "variants": [
               {
@@ -930,8 +930,8 @@
                 "status": "failure",
                 "run_id": 36288443534,
                 "run_attempt": 1,
-                "started_at": "2026-09-27T04:26:48Z",
-                "completed_at": "2026-09-27T04:31:21Z"
+                "started_at": "2026-09-27T02:24:58Z",
+                "completed_at": "2026-09-27T08:09:50Z"
               }
             ]
           },
@@ -940,7 +940,7 @@
             "run_id": 36288443534,
             "run_attempt": 1,
             "started_at": "2026-09-27T02:24:58Z",
-            "completed_at": "2026-09-27T07:59:44Z",
+            "completed_at": "2026-09-27T08:09:50Z",
             "variants": [
               {
                 "py": "3.11",
@@ -976,7 +976,7 @@
                 "run_id": 36288443534,
                 "run_attempt": 1,
                 "started_at": "2026-09-27T02:24:58Z",
-                "completed_at": "2026-09-27T04:21:23Z"
+                "completed_at": "2026-09-27T08:09:50Z"
               }
             ]
           },
@@ -985,7 +985,7 @@
             "run_id": 36288443534,
             "run_attempt": 1,
             "started_at": "2026-09-27T02:24:58Z",
-            "completed_at": "2026-09-27T07:59:44Z",
+            "completed_at": "2026-09-27T08:09:50Z",
             "variants": [
               {
                 "py": "3.11",
@@ -1021,7 +1021,7 @@
                 "run_id": 36288443534,
                 "run_attempt": 1,
                 "started_at": "2026-09-27T02:24:58Z",
-                "completed_at": "2026-09-27T04:21:23Z"
+                "completed_at": "2026-09-27T08:09:50Z"
               }
             ]
           },
@@ -1030,7 +1030,7 @@
             "run_id": 36288443534,
             "run_attempt": 1,
             "started_at": "2026-09-27T02:24:58Z",
-            "completed_at": "2026-09-27T07:59:44Z",
+            "completed_at": "2026-09-27T08:09:50Z",
             "variants": [
               {
                 "py": "3.11",
@@ -1066,7 +1066,7 @@
                 "run_id": 36288443534,
                 "run_attempt": 1,
                 "started_at": "2026-09-27T02:24:58Z",
-                "completed_at": "2026-09-27T04:21:23Z"
+                "completed_at": "2026-09-27T08:09:50Z"
               }
             ]
           },
@@ -1075,7 +1075,7 @@
             "run_id": 36288443534,
             "run_attempt": 1,
             "started_at": "2026-09-27T02:24:58Z",
-            "completed_at": "2026-09-27T07:59:44Z",
+            "completed_at": "2026-09-27T08:09:50Z",
             "variants": [
               {
                 "py": "3.11",
@@ -1111,7 +1111,7 @@
                 "run_id": 36288443534,
                 "run_attempt": 1,
                 "started_at": "2026-09-27T02:24:58Z",
-                "completed_at": "2026-09-27T04:21:23Z"
+                "completed_at": "2026-09-27T08:09:50Z"
               }
             ]
           },
@@ -1120,7 +1120,7 @@
             "run_id": 36288443534,
             "run_attempt": 1,
             "started_at": "2026-09-27T02:24:58Z",
-            "completed_at": "2026-09-27T07:59:44Z",
+            "completed_at": "2026-09-27T08:09:50Z",
             "variants": [
               {
                 "py": "3.11",
@@ -1156,7 +1156,7 @@
                 "run_id": 36288443534,
                 "run_attempt": 1,
                 "started_at": "2026-09-27T02:24:58Z",
-                "completed_at": "2026-09-27T04:21:23Z"
+                "completed_at": "2026-09-27T08:09:50Z"
               }
             ]
           },
@@ -1164,7 +1164,7 @@
             "status": "failure",
             "run_id": 36288443534,
             "run_attempt": 1,
-            "started_at": "2026-09-27T04:23:25Z",
+            "started_at": "2026-09-27T02:24:58Z",
             "completed_at": "2026-09-27T08:09:50Z",
             "variants": [
               {
@@ -1200,8 +1200,8 @@
                 "status": "failure",
                 "run_id": 36288443534,
                 "run_attempt": 1,
-                "started_at": "2026-09-27T04:26:46Z",
-                "completed_at": "2026-09-27T04:56:58Z"
+                "started_at": "2026-09-27T02:24:58Z",
+                "completed_at": "2026-09-27T08:09:50Z"
               }
             ]
           },
@@ -1209,7 +1209,7 @@
             "status": "failure",
             "run_id": 36288443534,
             "run_attempt": 1,
-            "started_at": "2026-09-27T07:14:29Z",
+            "started_at": "2026-09-27T02:24:58Z",
             "completed_at": "2026-09-27T08:09:50Z",
             "variants": [
               {
@@ -1242,10 +1242,11 @@
               {
                 "py": "3.11",
                 "torch": "nightly",
-                "status": "in_progress",
+                "status": "failure",
                 "run_id": 36288443534,
                 "run_attempt": 1,
-                "started_at": "2026-09-27T07:47:28Z"
+                "started_at": "2026-09-27T02:24:58Z",
+                "completed_at": "2026-09-27T08:09:50Z"
               }
             ]
           },
@@ -1254,7 +1255,7 @@
             "run_id": 36288443534,
             "run_attempt": 1,
             "started_at": "2026-09-27T02:24:58Z",
-            "completed_at": "2026-09-27T07:59:44Z",
+            "completed_at": "2026-09-27T08:09:50Z",
             "variants": [
               {
                 "py": "3.11",
@@ -1290,7 +1291,7 @@
                 "run_id": 36288443534,
                 "run_attempt": 1,
                 "started_at": "2026-09-27T02:24:58Z",
-                "completed_at": "2026-09-27T04:21:23Z"
+                "completed_at": "2026-09-27T08:09:50Z"
               }
             ]
           },
@@ -1298,7 +1299,7 @@
             "status": "failure",
             "run_id": 36288443534,
             "run_attempt": 1,
-            "started_at": "2026-09-27T04:21:29Z",
+            "started_at": "2026-09-27T02:24:58Z",
             "completed_at": "2026-09-27T08:09:50Z",
             "variants": [
               {
@@ -1334,8 +1335,8 @@
                 "status": "failure",
                 "run_id": 36288443534,
                 "run_attempt": 1,
-                "started_at": "2026-09-27T05:07:59Z",
-                "completed_at": "2026-09-27T05:23:29Z"
+                "started_at": "2026-09-27T02:24:58Z",
+                "completed_at": "2026-09-27T08:09:50Z"
               }
             ]
           }
