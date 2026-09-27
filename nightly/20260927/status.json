@@ -11,7 +11,7 @@
   "pytorch_enabled": true,
   "jax_enabled": true,
   "status_json_created": "2026-09-27T00:01:54Z",
-  "status_json_last_updated": "2026-09-27T01:57:24Z",
+  "status_json_last_updated": "2026-09-27T01:57:51Z",
   "summary": {
     "overall_status": "in_progress",
     "linux": {
@@ -187,7 +187,7 @@
             "run_id": 36286687694,
             "run_attempt": 1,
             "started_at": "2026-09-27T01:49:18Z",
-            "completed_at": "2026-09-27T01:56:53Z"
+            "completed_at": "2026-09-27T01:57:15Z"
           },
           "gfx1150": {
             "status": "in_progress",
