@@ -13,7 +13,7 @@
   "pytorch_enabled": true,
   "jax_enabled": true,
   "status_json_created": "2026-09-28T00:01:37Z",
-  "status_json_last_updated": "2026-09-28T04:27:56Z",
+  "status_json_last_updated": "2026-09-28T04:28:00Z",
   "summary": {
     "overall_status": "failure",
     "linux": {
@@ -37,15 +37,15 @@
         "gfx1153"
       ],
       "urls": {
-        "tarballs": "https://therock-nightly-artifacts.s3.amazonaws.com/36360593599-linux/tarballs/",
-        "wheels": "https://therock-nightly-artifacts.s3.amazonaws.com/36360593599-linux/python/",
+        "tarballs": "https://nightly.repo.amd.com/rocm/core/tarball/",
+        "wheels": "https://nightly.repo.amd.com/rocm/whl-next/",
         "artifacts": "https://therock-nightly-artifacts.s3.amazonaws.com/36360593599-linux/index.html",
-        "deb": "https://therock-nightly-artifacts.s3.amazonaws.com/36360593599-linux/packages/deb",
-        "rpm": "https://therock-nightly-artifacts.s3.amazonaws.com/36360593599-linux/packages/rpm/x86_64"
+        "deb": "https://nightly.repo.amd.com/rocm/core/packages/<os-profile>/20260928-36360593599/",
+        "rpm": "https://nightly.repo.amd.com/rocm/core/packages/<os-profile>/20260928-36360593599/"
       },
       "rocm": {
         "build": {
-          "status": "failure"
+          "status": "success"
         },
         "test": {
           "success": 0,
@@ -140,11 +140,11 @@
     "rocm": {
       "build": {
         "linux": {
-          "status": "failure",
+          "status": "success",
           "run_id": 36360593599,
           "run_attempt": 1,
           "started_at": "2026-09-28T00:00:45Z",
-          "completed_at": "2026-09-28T01:59:20Z"
+          "completed_at": "2026-09-28T04:27:09Z"
         },
         "windows": {
           "status": "failure",
