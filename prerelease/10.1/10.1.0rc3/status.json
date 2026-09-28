@@ -13,7 +13,7 @@
   "pytorch_enabled": true,
   "jax_enabled": true,
   "status_json_created": "2026-09-25T19:26:27Z",
-  "status_json_last_updated": "2026-09-28T10:31:43Z",
+  "status_json_last_updated": "2026-09-28T10:32:08Z",
   "summary": {
     "overall_status": "failure",
     "linux": {
@@ -58,8 +58,8 @@
         },
         "test": {
           "success": 52,
-          "failure": 29,
-          "in_progress": 101,
+          "failure": 33,
+          "in_progress": 97,
           "cancelled": 0,
           "skipped": 0
         },
@@ -538,10 +538,11 @@
               {
                 "py": "3.10",
                 "torch": "release/2.14",
-                "status": "in_progress",
+                "status": "failure",
                 "run_id": 36193513306,
                 "run_attempt": 2,
-                "started_at": "2026-09-28T10:12:29Z"
+                "started_at": "2026-09-28T10:12:29Z",
+                "completed_at": "2026-09-28T10:12:32Z"
               },
               {
                 "py": "3.10",
@@ -1310,10 +1311,11 @@
               {
                 "py": "3.10",
                 "torch": "release/2.14",
-                "status": "in_progress",
+                "status": "failure",
                 "run_id": 36193513306,
                 "run_attempt": 2,
-                "started_at": "2026-09-28T10:12:29Z"
+                "started_at": "2026-09-28T10:12:29Z",
+                "completed_at": "2026-09-28T10:12:32Z"
               },
               {
                 "py": "3.10",
@@ -1559,10 +1561,11 @@
               {
                 "py": "3.10",
                 "torch": "release/2.14",
-                "status": "in_progress",
+                "status": "failure",
                 "run_id": 36193513306,
                 "run_attempt": 2,
-                "started_at": "2026-09-28T10:12:29Z"
+                "started_at": "2026-09-28T10:12:29Z",
+                "completed_at": "2026-09-28T10:12:32Z"
               },
               {
                 "py": "3.10",
@@ -2060,10 +2063,11 @@
               {
                 "py": "3.10",
                 "torch": "release/2.14",
-                "status": "in_progress",
+                "status": "failure",
                 "run_id": 36193513306,
                 "run_attempt": 2,
-                "started_at": "2026-09-28T10:12:29Z"
+                "started_at": "2026-09-28T10:12:29Z",
+                "completed_at": "2026-09-28T10:12:32Z"
               },
               {
                 "py": "3.10",
