@@ -13,7 +13,7 @@
   "pytorch_enabled": true,
   "jax_enabled": true,
   "status_json_created": "2026-09-25T19:26:27Z",
-  "status_json_last_updated": "2026-09-28T12:21:39Z",
+  "status_json_last_updated": "2026-09-28T12:23:14Z",
   "summary": {
     "overall_status": "failure",
     "linux": {
@@ -728,7 +728,7 @@
                 "status": "in_progress",
                 "run_id": 36193513306,
                 "run_attempt": 2,
-                "started_at": "2026-09-28T12:04:43Z"
+                "started_at": "2026-09-28T10:12:29Z"
               }
             ]
           },
@@ -871,7 +871,7 @@
                 "status": "in_progress",
                 "run_id": 36193513306,
                 "run_attempt": 2,
-                "started_at": "2026-09-28T12:01:40Z"
+                "started_at": "2026-09-28T10:12:29Z"
               }
             ]
           },
@@ -1158,7 +1158,7 @@
                 "status": "in_progress",
                 "run_id": 36193513306,
                 "run_attempt": 2,
-                "started_at": "2026-09-28T12:01:40Z"
+                "started_at": "2026-09-28T10:12:29Z"
               }
             ]
           },
@@ -1454,7 +1454,7 @@
             "status": "failure",
             "run_id": 36193513306,
             "run_attempt": 2,
-            "started_at": "2026-09-28T10:12:35Z",
+            "started_at": "2026-09-28T10:12:29Z",
             "completed_at": "2026-09-28T12:18:18Z",
             "variants": [
               {
@@ -1582,7 +1582,7 @@
                 "status": "in_progress",
                 "run_id": 36193513306,
                 "run_attempt": 2,
-                "started_at": "2026-09-28T12:01:40Z"
+                "started_at": "2026-09-28T10:12:29Z"
               }
             ]
           },
@@ -1734,7 +1734,7 @@
             "status": "failure",
             "run_id": 36193513306,
             "run_attempt": 2,
-            "started_at": "2026-09-28T10:12:50Z",
+            "started_at": "2026-09-28T10:12:29Z",
             "completed_at": "2026-09-28T11:14:44Z",
             "variants": [
               {
@@ -1869,7 +1869,7 @@
                 "status": "in_progress",
                 "run_id": 36193513306,
                 "run_attempt": 2,
-                "started_at": "2026-09-28T12:02:13Z"
+                "started_at": "2026-09-28T10:12:29Z"
               }
             ]
           },
@@ -2012,7 +2012,7 @@
                 "status": "in_progress",
                 "run_id": 36193513306,
                 "run_attempt": 2,
-                "started_at": "2026-09-28T12:02:28Z"
+                "started_at": "2026-09-28T10:12:29Z"
               }
             ]
           },
