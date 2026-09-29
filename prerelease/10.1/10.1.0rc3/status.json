@@ -13,7 +13,7 @@
   "pytorch_enabled": true,
   "jax_enabled": true,
   "status_json_created": "2026-09-25T19:26:27Z",
-  "status_json_last_updated": "2026-09-29T19:55:06Z",
+  "status_json_last_updated": "2026-09-29T19:55:09Z",
   "summary": {
     "overall_status": "failure",
     "linux": {
@@ -164,7 +164,7 @@
           "run_id": 36608462648,
           "run_attempt": 1,
           "started_at": "2026-09-29T17:56:40Z",
-          "completed_at": "2026-09-29T19:53:05Z",
+          "completed_at": "2026-09-29T19:51:42Z",
           "variants": [
             {
               "py": "3.11",
@@ -173,7 +173,7 @@
               "run_id": 36608462648,
               "run_attempt": 1,
               "started_at": "2026-09-29T17:56:40Z",
-              "completed_at": "2026-09-29T19:52:23Z"
+              "completed_at": "2026-09-29T18:31:17Z"
             },
             {
               "py": "3.11",
@@ -182,7 +182,7 @@
               "run_id": 36608462648,
               "run_attempt": 1,
               "started_at": "2026-09-29T17:56:40Z",
-              "completed_at": "2026-09-29T19:52:57Z"
+              "completed_at": "2026-09-29T19:42:55Z"
             },
             {
               "py": "3.14",
@@ -191,7 +191,7 @@
               "run_id": 36608462648,
               "run_attempt": 1,
               "started_at": "2026-09-29T17:56:40Z",
-              "completed_at": "2026-09-29T19:53:02Z"
+              "completed_at": "2026-09-29T19:46:03Z"
             },
             {
               "py": "3.13",
@@ -209,7 +209,7 @@
               "run_id": 36608462648,
               "run_attempt": 1,
               "started_at": "2026-09-29T17:56:40Z",
-              "completed_at": "2026-09-29T19:53:05Z"
+              "completed_at": "2026-09-29T19:43:49Z"
             },
             {
               "py": "3.13",
@@ -227,7 +227,7 @@
               "run_id": 36608462648,
               "run_attempt": 1,
               "started_at": "2026-09-29T17:56:41Z",
-              "completed_at": "2026-09-29T19:53:05Z"
+              "completed_at": "2026-09-29T19:46:46Z"
             },
             {
               "py": "3.10",
@@ -272,7 +272,7 @@
               "run_id": 36608462648,
               "run_attempt": 1,
               "started_at": "2026-09-29T17:56:40Z",
-              "completed_at": "2026-09-29T19:52:27Z"
+              "completed_at": "2026-09-29T19:43:51Z"
             },
             {
               "py": "3.12",
@@ -281,7 +281,7 @@
               "run_id": 36608462648,
               "run_attempt": 1,
               "started_at": "2026-09-29T17:56:40Z",
-              "completed_at": "2026-09-29T19:52:59Z"
+              "completed_at": "2026-09-29T19:43:04Z"
             },
             {
               "py": "3.12",
@@ -514,7 +514,7 @@
                 "run_id": 36608462648,
                 "run_attempt": 1,
                 "started_at": "2026-09-29T17:56:14Z",
-                "completed_at": "2026-09-29T19:51:48Z"
+                "completed_at": "2026-09-29T19:51:25Z"
               },
               {
                 "py": "3.12",
@@ -1378,7 +1378,7 @@
                 "run_id": 36608462648,
                 "run_attempt": 1,
                 "started_at": "2026-09-29T17:56:14Z",
-                "completed_at": "2026-09-29T19:51:48Z"
+                "completed_at": "2026-09-29T19:51:25Z"
               },
               {
                 "py": "3.12",
@@ -1666,7 +1666,7 @@
                 "run_id": 36608462648,
                 "run_attempt": 1,
                 "started_at": "2026-09-29T17:56:14Z",
-                "completed_at": "2026-09-29T19:51:48Z"
+                "completed_at": "2026-09-29T19:51:25Z"
               },
               {
                 "py": "3.12",
@@ -2242,7 +2242,7 @@
                 "run_id": 36608462648,
                 "run_attempt": 1,
                 "started_at": "2026-09-29T17:56:14Z",
-                "completed_at": "2026-09-29T19:51:48Z"
+                "completed_at": "2026-09-29T19:51:25Z"
               },
               {
                 "py": "3.12",
