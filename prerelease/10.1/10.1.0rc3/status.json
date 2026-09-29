@@ -13,7 +13,7 @@
   "pytorch_enabled": true,
   "jax_enabled": true,
   "status_json_created": "2026-09-25T19:26:27Z",
-  "status_json_last_updated": "2026-09-29T22:03:41Z",
+  "status_json_last_updated": "2026-09-29T22:05:06Z",
   "summary": {
     "overall_status": "failure",
     "linux": {
@@ -58,8 +58,8 @@
         },
         "test": {
           "success": 62,
-          "failure": 33,
-          "in_progress": 100,
+          "failure": 36,
+          "in_progress": 97,
           "cancelled": 0,
           "skipped": 0
         },
@@ -976,7 +976,7 @@
             "run_id": 36623152559,
             "run_attempt": 1,
             "started_at": "2026-09-29T20:30:33Z",
-            "completed_at": "2026-09-29T21:59:35Z",
+            "completed_at": "2026-09-29T22:04:25Z",
             "variants": [
               {
                 "py": "3.10",
@@ -1034,10 +1034,11 @@
               {
                 "py": "3.12",
                 "torch": "release/2.14",
-                "status": "in_progress",
+                "status": "failure",
                 "run_id": 36623152559,
                 "run_attempt": 1,
-                "started_at": "2026-09-29T21:42:56Z"
+                "started_at": "2026-09-29T21:42:56Z",
+                "completed_at": "2026-09-29T22:04:25Z"
               },
               {
                 "py": "3.12",
@@ -1926,10 +1927,11 @@
             ]
           },
           "gfx950-dcgpu": {
-            "status": "in_progress",
+            "status": "failure",
             "run_id": 36623152559,
             "run_attempt": 1,
             "started_at": "2026-09-29T20:30:41Z",
+            "completed_at": "2026-09-29T22:04:33Z",
             "variants": [
               {
                 "py": "3.10",
@@ -1986,10 +1988,11 @@
               {
                 "py": "3.12",
                 "torch": "release/2.14",
-                "status": "in_progress",
+                "status": "failure",
                 "run_id": 36623152559,
                 "run_attempt": 1,
-                "started_at": "2026-09-29T21:43:03Z"
+                "started_at": "2026-09-29T21:43:03Z",
+                "completed_at": "2026-09-29T22:04:33Z"
               },
               {
                 "py": "3.12",
@@ -2002,10 +2005,11 @@
               {
                 "py": "3.11",
                 "torch": "release/2.14",
-                "status": "in_progress",
+                "status": "failure",
                 "run_id": 36623152559,
                 "run_attempt": 1,
-                "started_at": "2026-09-29T21:43:47Z"
+                "started_at": "2026-09-29T21:43:47Z",
+                "completed_at": "2026-09-29T22:04:22Z"
               },
               {
                 "py": "3.13",
