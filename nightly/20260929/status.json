@@ -13,7 +13,7 @@
   "pytorch_enabled": true,
   "jax_enabled": true,
   "status_json_created": "2026-09-29T00:02:16Z",
-  "status_json_last_updated": "2026-09-29T11:16:54Z",
+  "status_json_last_updated": "2026-09-29T11:17:06Z",
   "summary": {
     "overall_status": "failure",
     "linux": {
@@ -168,7 +168,7 @@
             "run_id": 36509464564,
             "run_attempt": 3,
             "started_at": "2026-09-29T10:37:40Z",
-            "completed_at": "2026-09-29T11:16:16Z"
+            "completed_at": "2026-09-29T11:16:35Z"
           },
           "gfx1153": {
             "status": "in_progress",
