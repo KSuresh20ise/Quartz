@@ -13,7 +13,7 @@
   "pytorch_enabled": true,
   "jax_enabled": true,
   "status_json_created": "2026-09-30T00:15:41Z",
-  "status_json_last_updated": "2026-09-30T08:11:13Z",
+  "status_json_last_updated": "2026-09-30T08:11:18Z",
   "summary": {
     "overall_status": "failure",
     "linux": {
@@ -175,7 +175,7 @@
             "run_id": 36655735199,
             "run_attempt": 1,
             "started_at": "2026-09-30T01:34:08Z",
-            "completed_at": "2026-09-30T07:59:13Z"
+            "completed_at": "2026-09-30T07:58:28Z"
           },
           "gfx94X-dcgpu": {
             "status": "failure",
