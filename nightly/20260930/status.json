@@ -13,7 +13,7 @@
   "pytorch_enabled": true,
   "jax_enabled": true,
   "status_json_created": "2026-09-30T00:15:41Z",
-  "status_json_last_updated": "2026-09-30T11:20:04Z",
+  "status_json_last_updated": "2026-09-30T11:20:14Z",
   "summary": {
     "overall_status": "failure",
     "linux": {
@@ -237,9 +237,9 @@
           "gfx120X-all": {
             "status": "failure",
             "run_id": 36660920939,
-            "run_attempt": 1,
-            "started_at": "2026-09-30T02:40:28Z",
-            "completed_at": "2026-09-30T04:47:24Z"
+            "run_attempt": 2,
+            "started_at": "2026-09-30T10:41:48Z",
+            "completed_at": "2026-09-30T11:19:37Z"
           }
         }
       }
