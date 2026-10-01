@@ -13,7 +13,7 @@
   "pytorch_enabled": true,
   "jax_enabled": true,
   "status_json_created": "2026-10-01T00:02:00Z",
-  "status_json_last_updated": "2026-10-01T18:36:34Z",
+  "status_json_last_updated": "2026-10-01T18:40:23Z",
   "summary": {
     "overall_status": "failure",
     "linux": {
@@ -61,8 +61,8 @@
         },
         "test": {
           "success": 37,
-          "failure": 22,
-          "in_progress": 5,
+          "failure": 23,
+          "in_progress": 4,
           "cancelled": 0,
           "skipped": 0
         },
@@ -1172,10 +1172,11 @@
             ]
           },
           "gfx103X-all": {
-            "status": "in_progress",
+            "status": "failure",
             "run_id": 36810201126,
             "run_attempt": 1,
             "started_at": "2026-10-01T03:59:41Z",
+            "completed_at": "2026-10-01T07:27:35Z",
             "variants": [
               {
                 "py": "3.11",
@@ -1198,10 +1199,11 @@
               {
                 "py": "3.11",
                 "torch": "release/2.13",
-                "status": "in_progress",
+                "status": "failure",
                 "run_id": 36810201126,
                 "run_attempt": 1,
-                "started_at": "2026-10-01T05:20:34Z"
+                "started_at": "2026-10-01T05:20:34Z",
+                "completed_at": "2026-10-01T07:27:35Z"
               },
               {
                 "py": "3.11",
@@ -1308,7 +1310,7 @@
             "status": "in_progress",
             "run_id": 36810201126,
             "run_attempt": 1,
-            "started_at": "2026-10-01T03:22:22Z",
+            "started_at": "2026-10-01T05:17:52Z",
             "variants": [
               {
                 "py": "3.11",
@@ -1316,7 +1318,7 @@
                 "status": "in_progress",
                 "run_id": 36810201126,
                 "run_attempt": 1,
-                "started_at": "2026-10-01T03:22:22Z"
+                "started_at": "2026-10-01T18:35:07Z"
               },
               {
                 "py": "3.11",
